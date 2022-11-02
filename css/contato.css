@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.input-padrao{
+    display: flex;
+    flex-direction: column;  
+}
+
+.mapa{
+    position: absolute;
+    left: 850px;
+    top: 193px;
+    border-radius: 15px;
+    width: 350px;
+    height: 250px;
+
+}
+
+form{
+    display: inline-block;
+    flex-direction: row;
+    position: relative;
+    left: 55px;
+    margin: 50px 0px 12px 0px;
+    color: whitesmoke;
+    padding: 20px 0px 0px 0px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 17px 0px;
+    padding: 12px 20px;
+    width: 100%;
+}
+
+.email{
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 5px;
+    position: absolute;
+    left: 50px;
+    padding: 20px 10px 20px 6px;
+}
+
+.contato{
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 5px;
+    position: absolute;
+    left: 930px;
+    top: 123px;
+    padding: 20px 10px 20px 6px;
+}
+
+footer{
+    background-color: black;
+}
+
+.rodape{
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.imagem_icone{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0px 10px 50px;
+}
+
+.endereco{
+    font-size: 18px;
+    position: absolute;
+    left: 850px;
+    top: 460px;
+    color: whitesmoke;
+    line-height: 25px;
+}
+
+.enviar{
+    border-color: whitesmoke;
+    border-radius: 8px;
+    padding: 18px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.enviar:hover{
+    background-color: whitesmoke;
+    transition: .5s;
+    color: black;
+}
+
+
+

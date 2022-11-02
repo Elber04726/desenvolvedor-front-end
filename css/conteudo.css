@@ -1,0 +1,92 @@
+
+
+main{
+    margin: 5px 0 5px 0;
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+.conteudo{
+    padding: 130px;
+}
+
+.conteudo_principal{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 0 30px;
+    color: lawngreen;
+}
+
+.conteudo_principal_nome{
+    font-size: 90px;
+    font-family: 'Satisfy', cursive;
+    margin: 40px 0 35px 150px;
+    color: whitesmoke;
+}
+
+.letra {
+    color: whitesmoke;
+    font-size: 300px;
+    position: relative;
+    float: left;
+    left: 815px;
+    top: -270px
+}
+
+.letra1 {
+    color: whitesmoke;
+    font-size: 300px;
+    position: relative;
+    float: left;
+    left: 715px;
+    top: -240px 
+}
+
+.descrition .button .icone i{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline 2px;
+    line-height: 60px;
+}
+
+.destaque{
+    color: whitesmoke;
+    font-size: 45px;
+    font-weight: bold;
+    position: relative;
+    left: -200px;
+    margin: 70px;
+
+  
+}
+
+h2{
+    color: whitesmoke;
+    display: inline-block; 
+}
+
+nav {
+	display: inline-block;
+}
+
+
+.projeto-descricao{
+    color: whitesmoke;
+}
+
+.logoAndamento{
+    width: 300px;
+    margin: 10px;
+   
+}
+.projeto li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid whitesmoke;
+}
